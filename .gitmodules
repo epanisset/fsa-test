@@ -1,0 +1,4 @@
+[submodule "epanisset/firststop"]
+	path = epanisset/firststop
+	url = git@github.com:epanisset/firststop.git
+	branch = main
